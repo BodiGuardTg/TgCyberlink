@@ -30,7 +30,7 @@ chmod +x beyond.sh
 # Enter a phone number & confirmation code.
 
 # For Auto Launch:
-cd BDReborn
+cd TgCyberlink
 chmod 777 autobd.sh
 screen ./autobd.sh
 ```
