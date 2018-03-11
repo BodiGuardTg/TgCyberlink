@@ -7,8 +7,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git -b TDBot
-cd BDReborn
+git clone https://github.com/BodiGuardTg/TgCyberlink.git -b TDBot
+cd TgCyberlink
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh config
